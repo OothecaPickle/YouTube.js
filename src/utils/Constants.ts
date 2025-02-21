@@ -31,7 +31,7 @@ export const CLIENTS = {
   },
   WEB: {
     NAME: 'WEB',
-    VERSION: '2.20241121.01.00',
+    VERSION: '2.20250219.07.00',
     API_KEY: 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8',
     API_VERSION: 'v1',
     STATIC_VISITOR_ID: '6zpwvWUNAco',
